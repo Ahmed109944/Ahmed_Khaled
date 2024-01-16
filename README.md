@@ -1,8 +1,16 @@
-# Ahmed_Khaled
-### 
+ ![bannerr](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">FullStack Developer Using MEARN</h3>
+
+<img style="padding-top:50px" align="right" alt="Coding" width="40%" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
+
+##  &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **MEARN Stack**.
+
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 - 🔭 I’m currently Studing In **ITI**
 
@@ -10,12 +18,17 @@
 
 - 🤝 I’m looking for help with **Full-Sack Path**
 
-<h3 align="left">Connect with me: 01124205180</h3>
-<h3 align="left">E-Mail: ahmedkhaledfcis2420@gmail.com</h3>
-<h3 align="left"><a href="https://www.linkedin.com/in/ahmed-khaled-2646971a1/" target="_blank" rel="noreferrer"> 
-<img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="Linked-In" width="40" height="40"/> </a></h3>
+- 📫 WhatsApp: **01124205180**
+- 📫 How to reach me **ahmedkhaledfcis2420@gmail.com**
+<h3 align="left">
+    <a href="https://www.linkedin.com/in/ahmed-khaled-2646971a1/" target="_blank" rel="noreferrer"> 
+        <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" alt="Linked-In" width="40" height="40"/> 
+    </a>
+</h3>
 <p align="left">
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,3 +56,4 @@
         <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="MongoDB" width="40" height="40"/> 
     </a> 
 </p>
+
