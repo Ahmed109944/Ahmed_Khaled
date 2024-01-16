@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">FullStack Developer Using MEARN</h3>
 
-<img style="padding-top:80px" align="right" alt="Coding" width="40%" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 ##  &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+<img  align="right" alt="Coding" width="40%" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 - I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **MEARN Stack**.
 
